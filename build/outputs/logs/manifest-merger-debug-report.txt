@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+	package
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:70-102
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:1-104
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/AndroidManifest.xml

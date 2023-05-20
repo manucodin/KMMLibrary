@@ -1,0 +1,9 @@
+me.mrsebastian.library.test-androidTest-0 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/generated/res/resValues/androidTest/debug
+me.mrsebastian.library.test-androidTest-1 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/generated/res/rs/androidTest/debug
+me.mrsebastian.library.test-mergeDebugAndroidTestResources-2 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+me.mrsebastian.library.test-mergeDebugAndroidTestResources-3 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+me.mrsebastian.library.test-merged_res-4 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/merged_res/debugAndroidTest
+me.mrsebastian.library.test-androidAndroidTest-5 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidAndroidTest/res
+me.mrsebastian.library.test-androidAndroidTestDebug-6 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidAndroidTestDebug/res
+me.mrsebastian.library.test-androidTest-7 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidTest/res
+me.mrsebastian.library.test-androidTestDebug-8 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidTestDebug/res

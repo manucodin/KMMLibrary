@@ -1,0 +1,10 @@
+me.mrsebastian.library-pngs-0 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/generated/res/pngs/debug
+me.mrsebastian.library-resValues-1 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/generated/res/resValues/debug
+me.mrsebastian.library-rs-2 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/generated/res/rs/debug
+me.mrsebastian.library-mergeDebugResources-3 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+me.mrsebastian.library-mergeDebugResources-4 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+me.mrsebastian.library-merged_res-5 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/build/intermediates/merged_res/debug
+me.mrsebastian.library-androidDebug-6 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidDebug/res
+me.mrsebastian.library-androidMain-7 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/androidMain/res
+me.mrsebastian.library-debug-8 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/debug/res
+me.mrsebastian.library-main-9 /Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary/src/main/res

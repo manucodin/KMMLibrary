@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/mrsebastian/Desktop/Proyectos/idealista/KMM/KMMLibrary"
+    name=":"
+    type="APP"
+    maven="me.mrsebastian:KMMLibrary:"
+    gradle="7.3.1"
+    buildFolder="build"
+    bootClassPath="/Users/mrsebastian/Library/Android/sdk/platforms/android-32/android.jar:/Users/mrsebastian/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="16"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
